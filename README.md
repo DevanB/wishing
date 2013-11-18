@@ -1,0 +1,3 @@
+# Wishing
+
+This is a small application to help with wish lists for  holidays, birthday, etc...
