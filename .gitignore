@@ -9,3 +9,5 @@
 /log/*.log
 /tmp
 .DS_Store
+
+vendor/bundle
